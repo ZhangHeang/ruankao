@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+  <title id="title">项目双代号网络图</title>
+  <desc id="desc">节点一至十三之间通过活动 A 至 P 连接，虚活动从节点七连接到节点十二。</desc>
+  <rect width="1200" height="420" fill="#fff"/>
+  <defs>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="7" markerHeight="7" orient="auto-start-reverse">
+      <path d="M0 0L10 5L0 10Z" fill="#1f2937"/>
+    </marker>
+  </defs>
+  <g fill="none" stroke="#1f2937" stroke-width="2.5" marker-end="url(#arrow)">
+    <path d="M110 190L220 85"/><path d="M110 210L220 210"/><path d="M110 230L220 335"/>
+    <path d="M290 85L400 190"/><path d="M290 210L400 210"/><path d="M290 335L400 230"/>
+    <path d="M470 195L580 65"/><path d="M470 210L580 190"/><path d="M470 225L580 325"/>
+    <path d="M650 65L780 65"/><path d="M650 190L780 190"/><path d="M650 325L780 325"/>
+    <path d="M850 190L990 315"/><path d="M850 65L1120 190"/><path d="M850 325L990 325"/>
+    <path d="M1060 315L1120 230"/><path d="M650 200L990 315" stroke-dasharray="9 7"/>
+  </g>
+  <g font-family="system-ui,Segoe UI,sans-serif" font-size="18" font-weight="600" fill="#111827">
+    <text x="145" y="125">A/4</text><text x="155" y="198">B/5</text><text x="145" y="295">C/3</text>
+    <text x="328" y="125">D/3</text><text x="335" y="198">E/2</text><text x="328" y="305">F/3</text>
+    <text x="515" y="115">G/3</text><text x="515" y="186">H/4</text><text x="515" y="285">I/2</text>
+    <text x="700" y="53">J/2</text><text x="700" y="178">K/2</text><text x="700" y="313">L/3</text>
+    <text x="900" y="250">M/3</text><text x="965" y="115">N/4</text><text x="900" y="313">O/4</text><text x="1075" y="275">P/3</text>
+  </g>
+  <g font-family="system-ui,Segoe UI,sans-serif" font-size="18" font-weight="600" fill="#111827" text-anchor="middle">
+    <g><rect x="40" y="187" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="75" y="216">1</text></g>
+    <g><rect x="220" y="42" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="255" y="71">2</text></g>
+    <g><rect x="220" y="187" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="255" y="216">3</text></g>
+    <g><rect x="220" y="312" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="255" y="341">4</text></g>
+    <g><rect x="400" y="187" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="435" y="216">5</text></g>
+    <g><rect x="580" y="42" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="615" y="71">6</text></g>
+    <g><rect x="580" y="167" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="615" y="196">7</text></g>
+    <g><rect x="580" y="302" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="615" y="331">8</text></g>
+    <g><rect x="780" y="42" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="815" y="71">9</text></g>
+    <g><rect x="780" y="167" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="815" y="196">10</text></g>
+    <g><rect x="780" y="302" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="815" y="331">11</text></g>
+    <g><rect x="990" y="302" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="1025" y="331">12</text></g>
+    <g><rect x="1120" y="187" width="70" height="46" rx="3" fill="#fff" stroke="#4b5563" stroke-width="2.5"/><text x="1155" y="216">13</text></g>
+  </g>
+</svg>

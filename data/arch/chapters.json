@@ -1,0 +1,10 @@
+[
+  { "id": "arch_style",  "name": "架构风格与视图", "order": 1, "weight": "约 12%", "intro": "架构风格分类、4+1 视图、ADL、ABSDM。" },
+  { "id": "quality",     "name": "质量属性与架构评估", "order": 2, "weight": "约 15%", "intro": "质量属性战术、ATAM、SAAM、CBAM。" },
+  { "id": "distributed", "name": "分布式系统", "order": 3, "weight": "约 18%", "intro": "CAP、BASE、共识、分布式事务、限流熔断。" },
+  { "id": "database",    "name": "数据库与缓存", "order": 4, "weight": "约 12%", "intro": "分库分表、索引、事务隔离、Redis、缓存三大问题。" },
+  { "id": "cloud",       "name": "云原生与微服务", "order": 5, "weight": "约 15%", "intro": "容器、K8s、服务网格、微服务拆分、CI/CD。" },
+  { "id": "security",    "name": "安全架构", "order": 6, "weight": "约 10%", "intro": "CIA、加密签名、零信任、等级保护、Web 漏洞。" },
+  { "id": "se",          "name": "软件工程与设计", "order": 7, "weight": "约 8%",  "intro": "开发模型、UML、设计模式、测试方法、DevOps。" },
+  { "id": "newtech",     "name": "新兴技术与综合", "order": 8, "weight": "约 10%", "intro": "云计算、大数据、AI、区块链、企业架构、IT 治理。" }
+]

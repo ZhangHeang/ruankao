@@ -1,0 +1,289 @@
+{
+  "schemaVersion": 1,
+  "subjectId": "mid-pm",
+  "generatedAt": "2026-10-21",
+  "sample": {
+    "pastQuestions": 1200,
+    "mockQuestions": 11,
+    "paperCount": 16,
+    "completePaperCount": 16,
+    "years": [
+      2016,
+      2017,
+      2018,
+      2019,
+      2020,
+      2021,
+      2022,
+      2023,
+      2024
+    ],
+    "paperIds": [
+      "mid-pm-2016-h2-objective",
+      "mid-pm-2017-h2-objective",
+      "mid-pm-2018-h1-objective",
+      "mid-pm-2018-h2-objective",
+      "mid-pm-2019-h1-objective",
+      "mid-pm-2019-h2-objective",
+      "mid-pm-2020-h2-objective",
+      "mid-pm-2021-h1-objective",
+      "mid-pm-2021-h2-objective",
+      "mid-pm-2022-h1-gd-objective",
+      "mid-pm-2022-h1-objective",
+      "mid-pm-2022-h2-gd-objective",
+      "mid-pm-2022-h2-objective",
+      "mid-pm-2023-h1-objective",
+      "mid-pm-2023-h2-b5-objective",
+      "mid-pm-2024-h2-b1-objective"
+    ],
+    "authenticityStatus": {
+      "pending": 1200
+    },
+    "confidence": "sufficient"
+  },
+  "questionTypes": [
+    {
+      "type": "multi",
+      "count": 4,
+      "share": 0.3
+    },
+    {
+      "type": "single",
+      "count": 1196,
+      "share": 99.7
+    }
+  ],
+  "coverage": {
+    "chaptersHit": 18,
+    "chaptersTotal": 18,
+    "knowledgeHit": 110,
+    "knowledgeTotal": 112
+  },
+  "chapters": [
+    {
+      "chapterId": "mid-pm-c11",
+      "chapterName": "规划过程组",
+      "questionCount": 281,
+      "questionShare": 23.4,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 17.56,
+      "knowledgeCovered": 22,
+      "knowledgeTotal": 22
+    },
+    {
+      "chapterId": "mid-pm-c02",
+      "chapterName": "信息技术发展",
+      "questionCount": 172,
+      "questionShare": 14.3,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 10.75,
+      "knowledgeCovered": 12,
+      "knowledgeTotal": 12
+    },
+    {
+      "chapterId": "mid-pm-c09",
+      "chapterName": "项目管理概论",
+      "questionCount": 150,
+      "questionShare": 12.5,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 9.38,
+      "knowledgeCovered": 13,
+      "knowledgeTotal": 13
+    },
+    {
+      "chapterId": "mid-pm-c13",
+      "chapterName": "监控过程组",
+      "questionCount": 122,
+      "questionShare": 10.2,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 7.62,
+      "knowledgeCovered": 10,
+      "knowledgeTotal": 10
+    },
+    {
+      "chapterId": "mid-pm-c01",
+      "chapterName": "信息化发展",
+      "questionCount": 109,
+      "questionShare": 9.1,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 6.81,
+      "knowledgeCovered": 11,
+      "knowledgeTotal": 13
+    },
+    {
+      "chapterId": "mid-pm-c12",
+      "chapterName": "执行过程组",
+      "questionCount": 73,
+      "questionShare": 6.1,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 4.56,
+      "knowledgeCovered": 7,
+      "knowledgeTotal": 7
+    },
+    {
+      "chapterId": "mid-pm-c05",
+      "chapterName": "软件工程",
+      "questionCount": 57,
+      "questionShare": 4.8,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 3.56,
+      "knowledgeCovered": 6,
+      "knowledgeTotal": 6
+    },
+    {
+      "chapterId": "mid-pm-c15",
+      "chapterName": "组织保障",
+      "questionCount": 52,
+      "questionShare": 4.3,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 3.25,
+      "knowledgeCovered": 3,
+      "knowledgeTotal": 3
+    },
+    {
+      "chapterId": "mid-pm-c08",
+      "chapterName": "信息安全工程",
+      "questionCount": 45,
+      "questionShare": 3.8,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 2.81,
+      "knowledgeCovered": 4,
+      "knowledgeTotal": 4
+    },
+    {
+      "chapterId": "mid-pm-c17",
+      "chapterName": "法律法规和标准规范",
+      "questionCount": 42,
+      "questionShare": 3.5,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 2.62,
+      "knowledgeCovered": 4,
+      "knowledgeTotal": 4
+    },
+    {
+      "chapterId": "mid-pm-c03",
+      "chapterName": "信息技术服务",
+      "questionCount": 27,
+      "questionShare": 2.2,
+      "paperHits": 15,
+      "observedPaperRate": 93.8,
+      "appearanceRate": 93.8,
+      "averagePerPaper": 1.69,
+      "knowledgeCovered": 4,
+      "knowledgeTotal": 4
+    },
+    {
+      "chapterId": "mid-pm-c10",
+      "chapterName": "启动过程组",
+      "questionCount": 25,
+      "questionShare": 2.1,
+      "paperHits": 16,
+      "observedPaperRate": 100.0,
+      "appearanceRate": 100.0,
+      "averagePerPaper": 1.56,
+      "knowledgeCovered": 2,
+      "knowledgeTotal": 2
+    },
+    {
+      "chapterId": "mid-pm-c04",
+      "chapterName": "信息系统架构",
+      "questionCount": 23,
+      "questionShare": 1.9,
+      "paperHits": 14,
+      "observedPaperRate": 87.5,
+      "appearanceRate": 87.5,
+      "averagePerPaper": 1.44,
+      "knowledgeCovered": 2,
+      "knowledgeTotal": 2
+    },
+    {
+      "chapterId": "mid-pm-c14",
+      "chapterName": "收尾过程组",
+      "questionCount": 9,
+      "questionShare": 0.8,
+      "paperHits": 6,
+      "observedPaperRate": 37.5,
+      "appearanceRate": 37.5,
+      "averagePerPaper": 0.56,
+      "knowledgeCovered": 2,
+      "knowledgeTotal": 2
+    },
+    {
+      "chapterId": "mid-pm-c06",
+      "chapterName": "数据工程",
+      "questionCount": 5,
+      "questionShare": 0.4,
+      "paperHits": 3,
+      "observedPaperRate": 18.8,
+      "appearanceRate": 18.8,
+      "averagePerPaper": 0.31,
+      "knowledgeCovered": 4,
+      "knowledgeTotal": 4
+    },
+    {
+      "chapterId": "mid-pm-c07",
+      "chapterName": "软硬件系统集成",
+      "questionCount": 5,
+      "questionShare": 0.4,
+      "paperHits": 3,
+      "observedPaperRate": 18.8,
+      "appearanceRate": 18.8,
+      "averagePerPaper": 0.31,
+      "knowledgeCovered": 2,
+      "knowledgeTotal": 2
+    },
+    {
+      "chapterId": "mid-pm-c16",
+      "chapterName": "监理基础知识",
+      "questionCount": 2,
+      "questionShare": 0.2,
+      "paperHits": 1,
+      "observedPaperRate": 6.2,
+      "appearanceRate": 6.2,
+      "averagePerPaper": 0.12,
+      "knowledgeCovered": 1,
+      "knowledgeTotal": 1
+    },
+    {
+      "chapterId": "mid-pm-c18",
+      "chapterName": "职业道德规范",
+      "questionCount": 1,
+      "questionShare": 0.1,
+      "paperHits": 1,
+      "observedPaperRate": 6.2,
+      "appearanceRate": 6.2,
+      "averagePerPaper": 0.06,
+      "knowledgeCovered": 1,
+      "knowledgeTotal": 1
+    }
+  ],
+  "methodology": {
+    "questionShare": "该章节题数 ÷ 当前真题总题数，描述样本内题量分布",
+    "observedPaperRate": "包含该章节题目的完整试卷数 ÷ 完整试卷数，仅描述已收录样本",
+    "appearanceRate": "至少收录5套完整试卷后才发布为历史出现率，不代表未来命题概率",
+    "minimumProbabilitySample": 5,
+    "trendMinimumSample": 10,
+    "excludesMock": true
+  },
+  "notice": "当前基于16套完整客观题统计历史出现率与趋势，不代表未来命题概率。"
+}
